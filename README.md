@@ -8,4 +8,4 @@ Over 5 Years of experience with Google Spreadsheets and Excel with 3 Years of ex
 
 As a first-year software engineering student, I am looking to expand my portfolio from just spreadsheet appscripts or Excel macros to more advanced programming and projects.
 
-Currently learning C# and C/C++
+Currently learning C#, Python and C/C++
