@@ -1,11 +1,20 @@
-- 👋 Hi, I’m @Jameee9 but you can call me Jamee
-- 👀 I’m interested in Software Engineering and Cybersecurity
-- 🌱 I’m currently a second-year software engineering student
-- 📫 You can reach me on my discord via Jamee9
+# Hello, I'm Jamee9! 👋
 
-My Spreadsheets are advanced database functions that can be used for User Management, Data Entry, and Account Management as well as Finance Spreadsheets for ease of bookkeeping. 
-Over 5 Years of experience with Google Spreadsheets and Excel with 3 Years of experience with Google Appscript (Java). 
+I'm a second-year Software Engineering student with a passion for cybersecurity and programming. Here's a little bit about me and my journey so far:
 
-As a second-year software engineering student, I want to expand my portfolio from just spreadsheet appscripts or Excel macros to more advanced programming and projects.
+## 🚀 About Me
 
+- 🎓 **Education**: Currently pursuing my degree in Software Engineering and CompTIA Security+
+- 💻 **Skills**:
+  - **Front End Development**: Fully proficient
+  - **Programming Languages**: Python, C/C++
+  - **Currently Learning**: Lua and C#
+- 🌐 **Experience**: Junior Developer for a RedM Community
+- 🛡️ **Interests**: Cybersecurity, Open Source Projects, and Cutting-edge Technologies
 
+## 📫 Get in Touch
+
+- **Discord**: @Jamee9
+- **Email**: [Mail me!](mailto:jamee8925@gmail.com)
+
+---
