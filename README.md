@@ -7,8 +7,8 @@ I'm a second-year Software Engineering student with a passion for cybersecurity 
 - 🎓 **Education**: Currently pursuing my degree in Software Engineering and CompTIA Security+
 - 💻 **Skills**:
   - **Front End Development**: Fully proficient
-  - **Programming Languages**: Python, C/C++
-  - **Currently Learning**: Lua and C#
+  - **Programming Languages**: University Level C/C++
+  - **Currently Learning**: Python and LUA
 - 🌐 **Experience**: Junior Developer for a RedM Community
 - 🛡️ **Interests**: Cybersecurity, Open Source Projects, and Cutting-edge Technologies
 
